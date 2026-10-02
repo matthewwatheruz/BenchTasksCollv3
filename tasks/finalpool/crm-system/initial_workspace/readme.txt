@@ -1,1 +1,1 @@
-# Initial workspace placeholder for crm-system
+Initial workspace for crm-system
